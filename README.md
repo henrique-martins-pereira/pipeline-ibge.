@@ -60,7 +60,7 @@ O projeto utiliza uma tabela chamada `municipios`, contendo as seguintes colunas
 **1. Clone o repositório**
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/henrique-martins-pereira/pipeline-ibge.
 ```
 
 **2. Entre na pasta do projeto**
