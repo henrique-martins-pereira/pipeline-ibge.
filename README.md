@@ -60,7 +60,7 @@ O projeto utiliza uma tabela chamada `municipios`, contendo as seguintes colunas
 **1. Clone o repositório**
 
 ```bash
-git clone https://github.com/henrique-martins-pereira/pipeline-ibge.
+git clone https://github.com/henrique-martins-pereira/pipeline-ibge
 ```
 
 **2. Entre na pasta do projeto**
@@ -99,3 +99,4 @@ Após a execução, o banco de dados `municipios_brasil.db` será criado no dire
 Desenvolvido como projeto prático de estudos em Python, APIs e engenharia de dados.
 
 **Objetivo:** desenvolver habilidades práticas em coleta, organização e armazenamento de dados utilizando fontes oficiais.
+
